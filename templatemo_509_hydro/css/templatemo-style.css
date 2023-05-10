@@ -653,11 +653,12 @@ http://www.templatemo.com/tm-509-hydro
   }
 
   .google-map {
-    border-radius: 15px;
     width: 400px;
     height: 400px;
     overflow: hidden;
     margin: 0 auto;
+    border-radius: 15px;
+
   }
 
   .google-map iframe {
